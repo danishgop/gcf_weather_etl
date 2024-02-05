@@ -17,7 +17,7 @@ gcloud functions deploy weather_etl \
 --runtime nodejs18 \
 --trigger-event google.storage.object.finalize \
 --entry-point readObservation \
---trigger-resource sp24_elliott_41200_weather_dev
+--trigger-resource sp24_danish_41200_weather_dev
 ```
 
 ### Copying a File to the Cloud Storage Bucket
