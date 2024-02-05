@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google-cloud/storage": "^7.7.0",
+    "csv-parser": "^3.0.0"
+  }
+}
