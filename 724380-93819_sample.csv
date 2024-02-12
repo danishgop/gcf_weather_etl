@@ -1,2 +1,2 @@
-year,month,day,hour,airtemp,dewpoint,pressure,winddirection,windspeed,sky,precip1hour,precip6hour
-2021,01,01,00,-28,-56,10264,60,41,6,-9999,-9999
+station,year,month,day,hour,airtemp,dewpoint,pressure,winddirection,windspeed,sky,precip1hour,precip6hour
+45,2021,01,01,00,-28,-56,10264,60,41,6,-9999,-9999
